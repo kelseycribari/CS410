@@ -1,0 +1,8 @@
+Kelsey Cribari -- A4
+
+USAGE: 
+	Compile command: 
+		javac -classpath commons-math3-3.6.1/commons-math3-3.6.1.jar Raytracer.java Camera.java DriverReader.java Face.java Image.java Model.java Rotate.java Scale.java Sphere.java Transformation.java Translate.java VectorUtils.java Material.java Light.java Ray.java Ambient.java
+		
+	Run command: 
+		java -classpath .:./commons-math3-3.6.1/commons-math3-3.6.1.jar Raytracer [driverfile] [output file]
